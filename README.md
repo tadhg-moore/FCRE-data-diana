@@ -1,2 +1,2 @@
-# SCCData/diana-data
-Data for SCC
+# Falling Creek Reservoir Weir Data
+Data for running FLARE
